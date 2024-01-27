@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-28T03:05:19 IST" name="Default suite" finished-at="2024-01-28T03:05:40 IST" duration-ms="20947">
+    <groups>
+    </groups>
+    <test started-at="2024-01-28T03:05:19 IST" name="Default test" finished-at="2024-01-28T03:05:40 IST" duration-ms="20947">
+      <class name="com.tutorialsninja.tests.Login">
+        <test-method signature="verifyLoginWithInvalidCredentials()[pri:0, instance:com.tutorialsninja.tests.Login@47e2e487]" started-at="2024-01-28T03:05:19 IST" name="verifyLoginWithInvalidCredentials" finished-at="2024-01-28T03:05:36 IST" duration-ms="16909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidCredentials -->
+        <test-method signature="verifyLoginWithValidCredentials()[pri:0, instance:com.tutorialsninja.tests.Login@47e2e487]" started-at="2024-01-28T03:05:36 IST" name="verifyLoginWithValidCredentials" finished-at="2024-01-28T03:05:40 IST" duration-ms="3988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCredentials -->
+      </class> <!-- com.tutorialsninja.tests.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
